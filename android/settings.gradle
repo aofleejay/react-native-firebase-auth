@@ -1,0 +1,3 @@
+rootProject.name = 'reactNativeFirebaseAuth'
+
+include ':app'
